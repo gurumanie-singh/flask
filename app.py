@@ -21,7 +21,5 @@ def birthday(name):
     return f"Your name is {name} and your birthday is on {birthday}. \
              You are from {origin} and stay at {current_residence}."
 
-
-
 if __name__ == "__main__":
     app.run(host = "0.0.0.0", port = int("3000"), debug = True)
