@@ -1,0 +1,10 @@
+{
+    "Guru":{
+        "origin":"Singapore",
+        "current_residence":"Freddy Court"
+    },
+    "Taimoor":{
+        "origin":"Pakistan",
+        "current_residence":"University Village"
+    }
+}
